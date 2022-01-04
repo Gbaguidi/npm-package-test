@@ -1,5 +1,14 @@
 {
     "name": "@gbaguidi-harry/test",
-    "version": "1.0.0"
-
+    "version": "1.0.0",
+    "description": "Just a dummy npm package",
+    "license": "MIT",
+    "repository": "Gbaguidi/npm-package-test",
+    "main": "index.js",
+    "keywords": [
+        "test",
+        "npm",
+        "package",
+        "blackHarry"
+    ]
 }
